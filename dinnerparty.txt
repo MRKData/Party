@@ -3,3 +3,5 @@ Surprise Dinner Party
 - cake
 - ballons
 - flowers
+- candles
+ - fireworks
